@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  -   Greg_Azubi_Project_Week_3     |  -      This is my first Power BI Project During Week 3 of the Azubi Data Analytics Program, we were tasked to create a dashboard on Power BI    | https://github.com/Greg-Art/Greg_Azubi_Project_Week_3.git   |
+| 2 |  -       Greg-s_Azubi_project_week_2      |  -  This is my first excel project using pivot tables. In this week, we learned how to use the relevant graphs to represent a dataset       | https://github.com/Greg-Art/Greg-s_Azubi_project_week_2.git       |
+| 3 |  -         Greg-s_Azubi-s_project_week_11    |  - This is my first machine learning project I did whiles enrolled in the Azubi Data Analytics Program This aim of this project was the predict the prices of homes in California using various machine learning linear regression models.            | https://github.com/Greg-Art/Greg-s_Azubi-s_project_week_11.git      |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
